@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Διαχείριση Hub (CRUD)",
+        "description": "Η εφαρμογή για να προσθέτω/αφαιρώ projects από αυτόν τον πίνακα.",
+        "URL": "https://yourname.github.io/project2_crud/crud.html",
+        "LogoIcon": "https://img.icons8.com/fluent/70/000000/settings.png"
+    },
+    {
+        "id": 2,
+        "name": "Diortyhhosi",
+        "description": "CRUD διαδικασίες στο ZX Web Radio",
+        "URL": "https://script.google.com/macros/s/AKfycbwdwyfjtC1--yqtPlyMYDU88NECP524nYvIuubwPw387F0YezQ-woifhzScOZ0ExCCR/exec",
+        "LogoIcon": "https://img.icons8.com/fluent/70/000000/radio.png"
+    },
+    {
+        "id": 3,
+        "name": "ZXWebRadioCRUD",
+        "description": "CRUD διαδικασίες στο ZX Web Radio",
+        "URL": "https://script.google.com/macros/s/AKfycbwdwyfjtC1--yqtPlyMYDU88NECP524nYvIuubwPw387F0YezQ-woifhzScOZ0ExCCR/exec",
+        "LogoIcon": "MyLogoIcons/LogoMyWebRadioIcon.png"
+    },
+    {
+        "id": 4,
+        "name": "ZXWebRadioCRUD",
+        "description": "CRUD διαδικασίες στο ZX Web Radio",
+        "URL": "https://script.google.com/macros/s/AKfycbwdwyfjtC1--yqtPlyMYDU88NECP524nYvIuubwPw387F0YezQ-woifhzScOZ0ExCCR/exec",
+        "LogoIcon": "https://img.icons8.com/fluent/70/000000/radio.png"
+    },
+    {
+        "id": 5,
+        "name": "ZXWebRadioCRUD",
+        "description": "CRUD διαδικασίες στο ZX Web Radio",
+        "URL": "https://script.google.com/macros/s/AKfycbwdwyfjtC1--yqtPlyMYDU88NECP524nYvIuubwPw387F0YezQ-woifhzScOZ0ExCCR/exec",
+        "LogoIcon": "https://img.icons8.com/fluent/70/000000/radio.png"
+    },
+    {
+        "id": 1779609135822,
+        "name": "ZXDowloader_Master_Project",
+        "LogoIcon": "MyLogoIcons/ZXDowloader_Icon.png",
+        "URL": "https://script.google.com/macros/s/AKfycbx_ZX1EIFzNiy4d6oYIYq2rUAMdt5s_4UPwSfh80rOlRdDCpjCgYVcf1RReE66w7jo0oQ/exec",
+        "description": "CRUD διαδικασίες στο myApps του ZXDowloader sheet"
+    },
+    {
+        "id": 1779613158819,
+        "name": "Oikismos Agnanti",
+        "LogoIcon": "MyLogoIcons/LogoAgnantiIcon.png",
+        "URL": "https://sites.google.com/view/kalivesagnanti/manage-data?authuser=0",
+        "description": "CRUD διαδικασίες για τη βάση δεδομένων του site AGNANTI"
+    },
+    {
+        "id": 1779696251827,
+        "name": "Οικισμός AGNANTI",
+        "LogoIcon": "MyLogoIcons/LogoAgnantiIcon.png",
+        "URL": "https://sites.google.com/view/kalivesagnanti/manage-email?authuser=0",
+        "description": "CRUD διαδικασίες για τα eMail προς την ιστοσελίδα"
+    },
+    {
+        "id": 1779739132033,
+        "name": "Master Administrator Script",
+        "LogoIcon": "MyLogoIcons/LogoMasterScriptMasterIcon.png",
+        "URL": "https://script.google.com/macros/s/AKfycbws3KVdK4s98fg8dMCn6Y5P8oMoEkiBfWQLC3PwnLh5TXL0Af5YZpTLecqgKl3tfL_Z/exec",
+        "description": "CRUD διαδικασίες στο Master Script Sheeet"
+    },
+    {
+        "id": 1779739212934,
+        "name": "Kati",
+        "LogoIcon": "#",
+        "URL": "#",
+        "description": "Για διόρθωση"
+    },
+    {
+        "id": 1779739243239,
+        "name": "Κατι 002",
+        "LogoIcon": "#",
+        "URL": "#",
+        "description": "Για διόρθωση"
+    },
+    {
+        "id": 1779910127868,
+        "name": "ZxMyJsonCRUD",
+        "LogoIcon": "MyLogoIcons/LogoMasterScriptMasterIcon.png",
+        "URL": "https://zxmyghsites.github.io/zxghjsoncrud/",
+        "description": "Διαδικασίες CRUD στο zxjsoncrud.json αρχείο"
+    }
+]
