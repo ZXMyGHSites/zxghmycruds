@@ -1,40 +1,5 @@
 [
     {
-        "id": 1,
-        "name": "Διαχείριση Hub (CRUD)",
-        "description": "Η εφαρμογή για να προσθέτω/αφαιρώ projects από αυτόν τον πίνακα.",
-        "URL": "https://yourname.github.io/project2_crud/crud.html",
-        "LogoIcon": "https://img.icons8.com/fluent/70/000000/settings.png"
-    },
-    {
-        "id": 2,
-        "name": "Diortyhhosi",
-        "description": "CRUD διαδικασίες στο ZX Web Radio",
-        "URL": "https://script.google.com/macros/s/AKfycbwdwyfjtC1--yqtPlyMYDU88NECP524nYvIuubwPw387F0YezQ-woifhzScOZ0ExCCR/exec",
-        "LogoIcon": "https://img.icons8.com/fluent/70/000000/radio.png"
-    },
-    {
-        "id": 3,
-        "name": "ZXWebRadioCRUD",
-        "description": "CRUD διαδικασίες στο ZX Web Radio",
-        "URL": "https://script.google.com/macros/s/AKfycbwdwyfjtC1--yqtPlyMYDU88NECP524nYvIuubwPw387F0YezQ-woifhzScOZ0ExCCR/exec",
-        "LogoIcon": "MyLogoIcons/LogoMyWebRadioIcon.png"
-    },
-    {
-        "id": 4,
-        "name": "ZXWebRadioCRUD",
-        "description": "CRUD διαδικασίες στο ZX Web Radio",
-        "URL": "https://script.google.com/macros/s/AKfycbwdwyfjtC1--yqtPlyMYDU88NECP524nYvIuubwPw387F0YezQ-woifhzScOZ0ExCCR/exec",
-        "LogoIcon": "https://img.icons8.com/fluent/70/000000/radio.png"
-    },
-    {
-        "id": 5,
-        "name": "ZXWebRadioCRUD",
-        "description": "CRUD διαδικασίες στο ZX Web Radio",
-        "URL": "https://script.google.com/macros/s/AKfycbwdwyfjtC1--yqtPlyMYDU88NECP524nYvIuubwPw387F0YezQ-woifhzScOZ0ExCCR/exec",
-        "LogoIcon": "https://img.icons8.com/fluent/70/000000/radio.png"
-    },
-    {
         "id": 1779609135822,
         "name": "ZXDowloader_Master_Project",
         "LogoIcon": "MyLogoIcons/ZXDowloader_Icon.png",
@@ -63,18 +28,11 @@
         "description": "CRUD διαδικασίες στο Master Script Sheeet"
     },
     {
-        "id": 1779739212934,
-        "name": "Kati",
-        "LogoIcon": "#",
-        "URL": "#",
-        "description": "Για διόρθωση"
-    },
-    {
         "id": 1779739243239,
-        "name": "Κατι 002",
-        "LogoIcon": "#",
-        "URL": "#",
-        "description": "Για διόρθωση"
+        "name": "Διαχείριση Δισκοθήκης Mp3 (CRUD)",
+        "LogoIcon": "MyLogoIcons/Mp3SongsFoldersCircle.png",
+        "URL": "https://script.google.com/macros/s/AKfycbw6gETdq0NYP0oL1FS6JUoN_AWfn7RNg0uSDi2_0G7GKMBy_5hsqDNTrkFKM2V8JQlKMA/exec",
+        "description": "Διαδικασίες CRUD στο MyMPG3Songs page DATA Sheet"
     },
     {
         "id": 1779910127868,
@@ -82,5 +40,12 @@
         "LogoIcon": "MyLogoIcons/LogoMasterScriptMasterIcon.png",
         "URL": "https://zxmyghsites.github.io/zxghjsoncrud/",
         "description": "Διαδικασίες CRUD στο zxjsoncrud.json αρχείο"
+    },
+    {
+        "id": 1779739212934,
+        "name": "ZXWebRadioCRUD",
+        "LogoIcon": "MyLogoIcons/LogoMyWebRadioIcon.png",
+        "URL": "https://script.google.com/macros/s/AKfycbwdwyfjtC1--yqtPlyMYDU88NECP524nYvIuubwPw387F0YezQ-woifhzScOZ0ExCCR/exec",
+        "description": "CRUD διαδικασίες στο ZX Web Radio"
     }
 ]
