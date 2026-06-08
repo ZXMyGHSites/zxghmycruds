@@ -47,5 +47,12 @@
         "LogoIcon": "MyLogoIcons/LogoMyWebRadioIcon.png",
         "URL": "https://script.google.com/macros/s/AKfycbwdwyfjtC1--yqtPlyMYDU88NECP524nYvIuubwPw387F0YezQ-woifhzScOZ0ExCCR/exec",
         "description": "CRUD διαδικασίες στο ZX Web Radio"
+    },
+    {
+        "id": 1780904317860,
+        "name": "ZX Cinema CRUD",
+        "LogoIcon": "",
+        "URL": "https://script.google.com/macros/s/AKfycbxVOzD-vhYw7dsxbmuyoyeqyJid7rMCJJT6lsP45XzCrOtmK7kSv_LKCuPv7yDAycGH/exec",
+        "description": "CRUD διαδικασίες στο ZXCinemaSheet του Project ZXCinemaCRUD"
     }
 ]
