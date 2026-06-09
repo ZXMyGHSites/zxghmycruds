@@ -51,7 +51,7 @@
     {
         "id": 1780904317860,
         "name": "ZX Cinema CRUD",
-        "LogoIcon": "",
+        "LogoIcon": "MyLogoIcons/ZXCinemaCircleIcon.png",
         "URL": "https://script.google.com/macros/s/AKfycbxVOzD-vhYw7dsxbmuyoyeqyJid7rMCJJT6lsP45XzCrOtmK7kSv_LKCuPv7yDAycGH/exec",
         "description": "CRUD διαδικασίες στο ZXCinemaSheet του Project ZXCinemaCRUD"
     }
